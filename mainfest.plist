@@ -1,14 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
-<!--
-   mainfest.plist
-   companyappdemo
-
-   Created by WeiGuochu on 2017/4/27.
-   Copyright (c) 2017年 WeiGuochu. All rights reserved.
--->
-<plist version="1.0">
     <dict>
         <key>items</key>
         <array>
@@ -19,7 +11,7 @@
                         <key>kind</key>
                         <string>software-package</string>
                         <key>url</key>
-                        <string>https://xxxxxx.cn/xxxxxx/lfs-client-iphone.ipa</string>
+                        <string>https://github.com/achuge2008/download/edit/master/companyappdemo.ipa</string>
                     </dict>
                     <dict>
                         <key>kind</key>
@@ -27,7 +19,7 @@
                         <key>needs-shine</key>
                         <true/>
                         <key>url</key>
-                        <string>https://xxxxxx.cn/xxxxxx/icon57x57.png</string>
+                        <string>https://github.com/achuge2008/download/edit/master/Icon57.png</string>
                     </dict>
                     <dict>
                         <key>kind</key>
@@ -35,21 +27,21 @@
                         <key>needs-shine</key>
                         <true/>
                         <key>url</key>
-                        <string>https://xxxxxx.cn/xxxxxx/icon512x512.png</string>
+                        <string>https://github.com/achuge2008/download/edit/master/Icon512.png</string>
                     </dict>
                 </array>
                 <key>metadata</key>
                 <dict>
                     <key>bundle-identifier</key>
-                    <string>com.xxxxxx.xxxxxx</string>
+                    <string>com.intefly.ble</string>
                     <key>bundle-version</key>
-                    <string>3.1.3</string>
+                    <string>2.0</string>
                     <key>kind</key>
                     <string>software</string>
                     <key>subtitle</key>
-                    <string>We chat</string>
-                    <key>title</key>
-                    <string> Wechat </string>
+                    <string>intefly</string>
+                    <key>intefly</key>
+                    <string> intefly</string>
                 </dict>
             </dict>
         </array>
